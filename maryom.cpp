@@ -1,4 +1,5 @@
 #include <iostream>
+<<<<<<< HEAD
 using namespace std;
 
 int sum(int a,int b);
@@ -14,3 +15,13 @@ int main()
 int sum(int a,int b){
     return a+b;
 }
+=======
+
+using namespace std;
+
+int main()
+{
+    cout << "Hello world!" << endl;
+    return 0;
+}
+>>>>>>> math-feature
