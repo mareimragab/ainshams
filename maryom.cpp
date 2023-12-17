@@ -10,7 +10,8 @@ int main()
     cout << "i world!" << endl;
     cout << "can world!" << endl;
     cout << "Hello world!" << endl;   
-    cout << "my" << endl;   
+    cout << "my" << endl; 
+   cout<<"maryom";  
     cout<< sum(2,4);
     
     return 0;
